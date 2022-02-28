@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poyer's vindication, in answer to a lying pamphlet, intituled A short comment upon the grounds and reasons of Poyer's taking up arms in the second differences, which are monstrous false lies: scattred abroad to uphold the broken reputation of a poor solicitor, for those cowardly turncoat cavaliers in the county of Pembroke, who (for reducing of them unto the Parliament) useth all means to have mine and my fellow-prisoners bloud; which they (and their cavaliering army) durst not attempt when they were in arms against the Parliament. / Published for satisfaction of all those that desire the truth herein: By Col. John Poyer, now a prisoner at Whitehall.</title>
+            <author>Poyer, John, d. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90914</idno>
+            <idno type="STC">Wing P3123</idno>
+            <idno type="STC">Thomason E548_31</idno>
+            <idno type="STC">ESTC R205603</idno>
+            <idno type="EEBO-CITATION">99864937</idno>
+            <idno type="PROQUEST">99864937</idno>
+            <idno type="VID">117170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117170)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E548[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poyer's vindication, in answer to a lying pamphlet, intituled A short comment upon the grounds and reasons of Poyer's taking up arms in the second differences, which are monstrous false lies: scattred abroad to uphold the broken reputation of a poor solicitor, for those cowardly turncoat cavaliers in the county of Pembroke, who (for reducing of them unto the Parliament) useth all means to have mine and my fellow-prisoners bloud; which they (and their cavaliering army) durst not attempt when they were in arms against the Parliament. / Published for satisfaction of all those that desire the truth herein: By Col. John Poyer, now a prisoner at Whitehall.</title>
+                  <author>Poyer, John, d. 1649.</author>
+                  <author>Elliot, John, Parliament-Commissioner.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>A reply to: A short comment upon the grounds and reasons of Poyer's taking up armes in these second insurrections.</note>
+                  <note>Annotation on Thomason copy: "March 29 1649.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poyer, John, d. 1649.</term>
+               <term>Short comment upon the grounds and reasons of Poyer's taking up armes in these second insurrections.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:117170:1" rendition="simple:additions"/>
+            <p>Poyer's Vindication, In anſwer to a lying Pamphlet, Intituled <hi>A Short Comment upon the Grounds and Reaſons of</hi> POYER<hi>'s taking up Arms in the ſecond Differences,</hi> Which are monſtrous falſe Lies: <hi>Scattred abroad</hi> To uphold the broken reputation of a poor Solicitor, for thoſe Cowardly turn<g ref="char:EOLhyphen"/>coat Cavaliers in the County of <hi>PEMBROKE,</hi> Who (for reducing of them unto the Parliament) uſeth all means to have mine and my fellow-Priſoners bloud; which they (and their Cavaliering Army) durſt not attempt when they were in Arms againſt the Parliament.</p>
+            <p>Publiſhed for ſatisfaction of all thoſe that deſire the Truth herein:</p>
+            <p>
+               <hi>By Col.</hi> JOHN POYER, <hi>now a Priſoner at</hi> Whitehall.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>I Can judge no other to be the Author of that ridiculous Pamphlet, wherein I am ſo much mentioned, but one <hi>John Elliot;</hi> who to ſatisfie his unſatiable deſire, hath thus mask'd himſelf in a dark Scene, (without name) being aſhamed to own ſuch falſhood as is there ſet forth. I delight not to ſpeak any thing of my own wel-doing, but to remove thoſe baſe aſperſions caſt upon me (by inveterate enemies to me, and all thoſe that firſt affected the Parliament) ſomewhat I ſhall briefly ſay.</p>
+            <p>
+               <pb n="2" facs="tcp:117170:2"/>I praiſe God, for though I boaſt not of my Parents, yet it's well known they were not ſuch as did accompany the Relator <hi>Elliots</hi> Father from place to place for livelihood: And whoſoever ſhall look upon former Subſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rolls, and the Subſidies granted in the be<g ref="char:EOLhyphen"/>ginning of this Parliament, ſhall find me an high Collector, and equal<g ref="char:EOLhyphen"/>ly charged with his Worſhip; who hath ſucceeded ſo well in his falſe Informations, that he beleeves to be credited beyond Records. The beſt Gentleman in the Town of <hi>Pembroke</hi> bound his Son to be my Apprentice, my dealings being in Wooll, Corn, Skins, Butter, and Tallow; and it is well known, I imployed more poor on work in making of Cloth then any man in that Country; and that I dealt in theſe Commodities with Merchants of B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtol for many thouſands yeerly, and have given them full ſatisfaction in all things.</p>
+            <p>That for ſixteen yeers together I was thought worthy to have the command of the Trained Bands of the Town of <hi>Pembroke,</hi> where<g ref="char:EOLhyphen"/>in I gained the love of thoſe Inhabitants generally; that when the unhappy differences firſt began, they did unanimouſly joys with me (by the encouragement of ſome noble Gentlemen) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o pre<g ref="char:EOLhyphen"/>ſerve and fortifie the Town and Caſtle of <hi>Pembroke</hi> to the uſe of the Parliament (the Caſtle being my right (long before theſe trou<g ref="char:EOLhyphen"/>bles) as Captain <hi>Cowney</hi> can juſtifie when all other Towns and Counties in <hi>Wales</hi> were againſt the Parliament. It is alſo evident<g ref="char:EOLhyphen"/>ly known, how I have promoted and endeavoured the Parliaments Intereſt in that Country, by raiſing one Troop of Horſe, two Troops of Dragoons, and three Foot-Companies, all armed in their Ser<g ref="char:EOLhyphen"/>vice: by fortifying ſeverall Gariſons, and furniſhing them with Ordnance, Arms, Men, Victuals and Ammunition: By relieving the Proteſtants in <hi>Dublin</hi> and <hi>Yaughall</hi> in their extremities: By taking Iriſh Rebels, Prieſts and Papiſts (which the Relator <hi>Eliot</hi> terms well-affected:) By taking two of the Kings Men of War, and by aſſiſting and encouraging the Parliaments Ships within the Harbour of <hi>Milford.</hi> For theſe and many other Services the Houſe of Commons was pleaſed to Order I ſhould receive Thanks.</p>
+            <p>As for the aſperſion caſt upon me for an irreligious Perſon, it is well known, my Religion to be ſuch as is profeſſed by the Church of <hi>England,</hi> I refer my ſelf to divers worthy Divines and Gentlemen; whereof ſome of them are now Members both of the Parliament and Armie, who knew my life and converſation, and had encouragement from me for ſhelter, when they and my ſelf were perſecuted and proſecuted for our Religion by the ſaid <hi>Eliot</hi>
+               <pb n="3" facs="tcp:117170:2"/>and other of the Kings partie, and can juſtifie thoſe Aſperſions caſt upon me, to be altogether falſe, ſcandalous and untrue.</p>
+            <p>Whereas it is all eadged in that lying Pamphlet, that I did plunder <hi>Roger Lort,</hi> and others wel affected to the Parliament; and that I ſeized upon Ships and Goods of the wel-affected, (<hi>viz.</hi> Papiſts) ha<g ref="char:EOLhyphen"/>ving the Kings Commiſſion) and have purſed it to my own uſe, be<g ref="char:EOLhyphen"/>ing no lawfull prize.</p>
+            <p>I wonder with what impudence their Solicitor <hi>Elliot,</hi> can charge me with the plundering of Col. <hi>Lorts</hi> houſe, it being well known to hundreds in this City, that the ſaid <hi>Lort</hi> fortified his houſe againſt the Parliament; and I being commanded to aſſiſt Major Generall <hi>Laughorn,</hi> Col. <hi>Powell</hi> and others, to goe and beſiege the ſaid <hi>Lorts</hi> houſe ſo fortified againſt the Parliament, who did with the effuſion of much bloud, take it upon Storm, to the uſe of the Parliament, and what was taken by the Souldiers in the heat of blood, cannot be imputed to our diſhonour.</p>
+            <p>And for that aſperſion concerning the Ships, it is likewiſe well known that they were the one Commiſſioned by the Marqueſſe of <hi>Ormond,</hi> and the other by Sir <hi>John Pennington</hi> to be Men of Warre againſt the Parliament, as by their Commiſſions appeareth; one of thoſe Ships and goods, (except the Ordnance, Arms, and Ammu<g ref="char:EOLhyphen"/>nition) was by order of the Earl of <hi>Warwick</hi> ſent to <hi>Dover,</hi> and the other Ship reſcued by the Kings men of Warre, invited to that Harbor by the Relator <hi>Elliot, Roger Lort,</hi> and their Confederates; It cannot be made appear that I advantaged my ſelf Six pence by thoſe Ships, much leſs 6000 <hi>l.</hi> as <hi>Elliot</hi> fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſly alleadgeth; nor can they make it juſtly appear, that ever I took the goods of any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, though <hi>Roger Lort</hi> did plunder (or ſteal) the Goods of Capt. <hi>Cowney</hi> and others for their wel-affection to the Parliament, and converted them to his own uſe without any ſatisfaction to the owner.</p>
+            <p>
+               <hi>Reader,</hi> I ſhall acquaint you a little further, how that <hi>Roger Lort, Sampſon Lort,</hi> and <hi>John Lort,</hi> would have drawn me to their trea<g ref="char:EOLhyphen"/>cherous Confederacy in the year 1644 being ſhortly after their comming in to Major Generall <hi>Langhorn,</hi> inviting me to a feaſt, where great ſhew of kindneſs was offered by them, the concluſion was, to engage me to joyn with them againſt Major Generall <hi>Langhorn</hi> and his party, and they would procure me the Kings Commiſſion to Command the Towns of <hi>Pembrook and T<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> with the Country thereabo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, this was preſently after the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> given the Earl of <hi>Eſſex</hi> in the Weſt, though they were then named Com<g ref="char:EOLhyphen"/>mittee-men for the Parliament.</p>
+            <p>
+               <pb n="4" facs="tcp:117170:3"/>The Relator <hi>Elliot,</hi> ſaith, That I was not put forth of my Com<g ref="char:EOLhyphen"/>mands by the Parliament, yet telleth what I did was without Com<g ref="char:EOLhyphen"/>miſſion. It is known to moſt of the well-affected in South-wales, how the Relator <hi>Elliot, Roger Lort, Sampſon Lort,</hi> and their party, have proſecuted me and the reſt of the Souldiery in that Countrey; Mr. Sollcitor Generall <hi>Cooke</hi> may be pleaſed to remember (who was then my Councell) much of the paſſages of that Faction; and how rigorouſly they did proſecute me, and did cauſe me to be Arreſted in 2000 <hi>l.</hi> Action, and caſt in priſon to hinder my lawful proceedings againſt them; and I being afterwards freed from that unjuſt Arreſt, without paying of Fees; which ſo wrought with <hi>Elliot,</hi> that he procured another Writ to be delivered to the Bailiff of <hi>Weſtminſter,</hi> immediately on the diſcharge of my former troubles, he conceiving me not out of cuſtody, thought thereby to have continued his enter<g ref="char:EOLhyphen"/>priſe; and on a new Riſing in <hi>Glamorganſhire</hi> I was commanded to my Charge, where being come to the County of <hi>Pembrooke,</hi> the <hi>Lorts</hi> did ſet upon me ſeverall times in the high-way, likewiſe at<g ref="char:EOLhyphen"/>tempted to have murthered me in the Church, and did with the Re<g ref="char:EOLhyphen"/>lator <hi>Eliot,</hi> combine together that no indempnity ſhould be granted me, as by their Letters may appear. And whereas they charge me with diſobeying of his Excellencies the Lord Generals Orders, it is to be proved, that (in obedience to his Excellencies Order) I was coming to the head-Quarters to give accompt of all particulars: <hi>Ro<g ref="char:EOLhyphen"/>ger Lort</hi> and his Confederates finding my inclination of an appeal to his Excellency, did ſend forth an <hi>Hue and Crie,</hi> and divers Warrants from the high Sheriff of the county to apprehend me, &amp; to keep cloſe watch and wards on all the high ways, to intercept my going to the head-Quarters; and ſhortly after (without any Order from the Par<g ref="char:EOLhyphen"/>ment or his Excellency) to render me more odious in the eye of all people) proclaimed me Traitor. All which conſidered, might well give me caution to ſtand upon my guard againſt thoſe bloudy Rebels, who were (as aforeſaid) reduced to the obedience of the Parliament.</p>
+            <p>That <hi>Roger Lort, Samſon Lort, James Lewis, John Lout,</hi> and their Confederates, contrary to an order of free debate unanimouſly agreed upon by the Committee of <hi>Pembroke</hi>-ſhire, kept and maintained (up<g ref="char:EOLhyphen"/>on the publick charge) the Relator <hi>Eliot</hi> here in <hi>London</hi> theſe three or four yeers, to be Solicitor for them and cloak their knavery: un<g ref="char:EOLhyphen"/>der colour of which imployments, they have procured unto him ma<g ref="char:EOLhyphen"/>ny hundreds of pounds, with which he hath clad himſelf in fine garbs, (<hi>viz.</hi> Scarlet, gold Lace, ſilver and gold Buttons, &amp;c.) although he had not a cloak to wear when he went to <hi>Oxford</hi> to be Knighted
+<pb n="5" facs="tcp:117170:3"/>for betraying the Town and Caſtle of <hi>Tenby</hi> to the Kings party; his habit and viſard being ſuch, that the King would not afford him the title of Sir <hi>John Eliot,</hi> though he much laboured it; his monies being ſo ſhort to pay the fees of Knighthood, that he returned home with his Title of Honour, called the <hi>Jeppo Gentleman.</hi>
+            </p>
+            <p>The Relator <hi>Eliot</hi> having not wearied himſelf with lies in his Pamphlet, he adds one more, and ſuch a one as he hopes will ſtrike home to my reputation and deſtruction: His malice reſteth not upon me onely, but upon my poor Wife and Children, making my Wife a Whore, and my Children Baſtards. But Relator, be thou aſſured to give a good accompt (above all the reſt) of this baſe ſlander. I do very well know how thou thirſteſt after my bloud; and if thou obtain thy longing deſire to glution thy ſelf with it, be aſſured that God will finde means to right my Wife and Children, whom thou and thy Confederates have ſo evidently wronged. Relator, thou doſt not well, to charge the innocent, and let the guilty go free: Remember thy Siſters, and thy beſt friends of the female ſort. <hi>Eliot,</hi> was it not a merry time at <hi>Carmarthen,</hi> when a Inſty Cavalier courted a bonny Laſs? Fie, be more modeſt then to beleeve that any woman went 13 months, and the honeſt Doctor <hi>Millard</hi> muſt not adminiſter after ſo great a Club. <hi>Eliot,</hi> hadſt thou look'd about thee when thou wenteſt into the County of <hi>Pembroke</hi> with thy dark Lanthorn, and waſt for thy falſe Services feaſted by thy Maſters, <hi>Roger Lort</hi> and <hi>James Lewis,</hi> thou mighteſt have ſeen many Baſtards, a lovely Laſſe feaſted, and the poor Wife ſtarved.</p>
+            <p>The Relator makes men (if he could) beleeve, that all the old Ca<g ref="char:EOLhyphen"/>valiers and his turn-coat Friends are faithful men to the Parliament; and moſt ſhamefully denies that himſelf or his Confederates were Commiſſioners of Array, or ever for the Kings party; I doubt not but to make it evidently appear, that they were chief Agents, prime Actors and Abettors of Judge <hi>Jenkins</hi> and others; that did proclaim my ſelf and ſeverall Gentlemen of the County of <hi>Pembroke</hi> Traitors for acting in the Service of the Parliament.</p>
+            <p>The Relator further ſaith, That one of my Friends is ſequeſtred for ſitting in the Juncto at <hi>Oxford,</hi> citing Sir <hi>Hugh Owen</hi> Knight and Baronet; whom I grant, was both my friend and the States, in preſervin the Parliaments Intereſt againſt the Relator <hi>Eliot</hi> and his Confederates, for which he was proclaimed Traitor, and carried priſoner to <hi>Oxfora;</hi> and if <hi>Eliot</hi> be pleaſed to remember his own being, and the paſſages there, he could tell, that Sir <hi>Hugh Owen</hi> (for
+<pb n="6" facs="tcp:117170:4"/>not joyning with him and his Confederates, was ſent cloſe priſoner to <hi>Waſtingford,</hi> and afterwards remanded into the County to be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y<g ref="char:EOLhyphen"/>ed by Commiſſion of <hi>Oyer</hi> and <hi>Termin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> for his life; and upon ſuc<g ref="char:EOLhyphen"/>ceſſe of the Parliaments Forces in <hi>Pembroke</hi>-ſhire, carried priſoner back to <hi>Oxford:</hi> but for his ſitting in the Juncto, as I do not beleeve it, ſo I can ſoy nothing to it, not finding him incerted amongſt the reſt that ſate there, in the Book of Ordinances printed by the Au<g ref="char:EOLhyphen"/>thority of Parliament: As for his Sequeſtration likewiſe, I can ſay little, it being long after I was a priſoner; onely I have heard that thoſe that formerly for his Service to the Parliament fought his life, did now ſequeſter him; and their main Witneſſe and Se<g ref="char:EOLhyphen"/>queſtrator was one <hi>Rees ap Rees Gerrard's</hi> Hangman, and now in<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led their loving friend; who before theſe unhappy Differences had ſuffered the Pillory for falſe Oathes; A fit inſtrument for their juſtice, and one that they delight much in his company.</p>
+            <p>For the <hi>Mountebanks</hi> loſſes, the Relator ſpeakes of himſelf and his Confederates, I can ſay little having formerly fully anſwered their gaines, out of their Countries ruine, and their own perticular; it is known to to the whole County where he lived, that the Port and Garbe which he now lives in, could not be maintained in the beſt of times by his Revenue: And that he lived theſe twenty years generaly hated by all the honeſt hearted men in that Country, as being a temporiſer, and ſower of Sedition, having for lucar of pettie gaines, <hi>viz.</hi> a Cockſhut, betraying the truſt repoſed in him, by the Tennants of Nerbert, who were his neighbours, and employd him as ſolicitor in a ſute between them and the Lord of (the Manor.</p>
+            <div type="part">
+               <head>I have formerly offered the charge following againſt the ſaid <hi>Eliot</hi> and his Confederates, (which cauſed them with that violence to perſecute me) and ſtill am ready to make it good, by a hundred Witneſſes if admitted thereunto.</head>
+               <p>Firſt, That <hi>Roger Lort, James Lewis, Griffeth White, Thomas Bowen, Herbert Perrot, Sampſon Lort,</hi> and <hi>John Eliot,</hi> was of ſe<g ref="char:EOLhyphen"/>verall Commiſſioners for the King, (<hi>viz.</hi>) of the Array the Aſſoci<g ref="char:EOLhyphen"/>ation, the Commiſſion of Peace, and did indeavour as much as in them lay, to eſtabliſh the County of <hi>Pembrook</hi> for the Kings party, All which was by them effected, except <hi>Pembrook.</hi> Town and Caſtle.</p>
+               <p>
+                  <pb n="7" facs="tcp:117170:4"/>Secondly, That the ſaid Confederates did aſſociate the Counties of <hi>Pembrook</hi> with the Counties of <hi>Carmarthen, Cardi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an</hi> for the King, and did Petition the King that the Earl of <hi>Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry,</hi> ſhould command the ſaid aſſociation and did likewiſe goe out of their own Country to the Kings Army and did their declare each to other and unanimouſly ſubſcribe a declaration to aſſiſt his Ma<g ref="char:EOLhyphen"/>jeſties with their lives and fortunes againſt all Rebells and Rebel<g ref="char:EOLhyphen"/>lion.</p>
+               <p>Thirdly, That the aforeſaid Confederates, did march with the Kings forces into the County of <hi>Pembroke,</hi> and did ſubſcribe under their hands and ſeals, to raiſe <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Pounds to be preſent in Teſta- of their Loyall hearts, to his Majeſties ſacred hands, and did ſub<g ref="char:EOLhyphen"/>ſcribe to raiſe Men Horſe and Armes, for the Kings party, and did force many hundreds of men to ſerve the king, and to the great anoyance of the well affected, did raiſe many Thouſands of Ponds to maintain the warre againſt the Parliament.</p>
+               <p>Fourthly, That the ſaid Confederates, to further their horrid de<g ref="char:EOLhyphen"/>ſigne againſt the Parliament, did ſend <hi>John Eliot, Thomas Brown,</hi> and <hi>Roger Lort,</hi> to the King to <hi>Oxford,</hi> who did there for them<g ref="char:EOLhyphen"/>ſelves and in the name of all the reſt, ſubſcribe to fortifie the Har<g ref="char:EOLhyphen"/>bour of <hi>Milford</hi> againſt the Parliament, and to diſarme, all the well affected to the Parliament in the County of <hi>Pembrook;</hi> the ſaid <hi>Lort, Bowen</hi> and <hi>Eliot,</hi> having returned from <hi>Oxford,</hi> all the aforeſaid Confederates did with them joyn together and fortifie ſeven or eight ſeverall Garriſons againſt the Parliament in the County of <hi>Pembrook,</hi> and did obſtinately keep the ſame untill they had been ſeverall times beaten and routed, moſt of their Garriſons taken by ſtormes and batteries, to the obedience of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Fiftly, That <hi>Roger Lort,</hi> and <hi>John Eliot</hi> were ring leaders, to pro<g ref="char:EOLhyphen"/>mote the Kings party in that Town, the ſaid <hi>Lorts</hi> Houſe being as aforeſaid, a Garriſon againſt the Parliament, and did keep corre<g ref="char:EOLhyphen"/>ſpondencie with <hi>Gerrard</hi> who did ruine the whole County of <hi>Pem<g ref="char:EOLhyphen"/>brook</hi> in the yeer 1645, and that <hi>Roger Lort,</hi> though a committee man, yet he had a protection from <hi>Gerrard</hi> for his Eſtate, as may appear by the oaths of Mr. <hi>Anſlow</hi> his brother in Law, and <hi>James Rees</hi> his ſervant.</p>
+               <p>Sixtly that notwithſtanding all aforeſaid, the ſaid Confederates, did by ſiniſter means, made by ſome of the ſecluded Members who obſtructed the Kingdoms right, get themſelves to be Committee<g ref="char:EOLhyphen"/>men,
+<pb n="8" facs="tcp:117170:5"/>Commiſſioners, Juſtices of Peace, Sequeſtrators, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> offices of truſt, by vertue of which power they have kept back <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> queſtration from themſelves and other the moſt Active Malignan<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in thoſe three Counties to the hindrance of the State 2000<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pounds.</p>
+               <p>Seaventhly, that the aſoreſaid Confederates being intruſted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Parliament, did uſe all means of revenge on my ſelf and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Souldery, for forcing their obedience unto the Parliament, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> did obſtruct all that of right did belong unto the Souldiers and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſelf, the Soulders being ſenceable of their own preſent ſuffering<g ref="char:punc">▪</g> and their hard dutie and loſſe of blood in ſeverall Leagures <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Skirmiſhes until they had reduced them, did run into ſuch a diſcon<g ref="char:EOLunhyphen"/>tent, that nothing would ſatisfie the Souldiers, till Juſtice <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhewed on thoſe Caterpillers of their Country, the Relator <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Roger Lort,</hi> and their Confederates, finding the Inclination of the Souldery to be moved againſt them, did never give over untill they had procured ſome of their favorites, who had formerly endeavour<g ref="char:EOLhyphen"/>ed the kingdoms ruine (by disbanding the whole Army) to yet them all disbanded without any ſecurity for their Arrears, ſupplies for ther preſent neceſſities or indempnities for what paſt: The Soul<g ref="char:EOLhyphen"/>diers taking the ſame into Conſideration, having a former preſi<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> by his Excellencies Army) would not upon the malice of their Exe<g ref="char:EOLhyphen"/>mies be disbanded untill juſtice were ſhewed to them and executed upon <hi>Roger Lort, Sampſon Lort, John Eliot, Herbert Perrot, John Lowt, &amp;c.</hi> who were the Cauſers of them, and their Countreys ruine, and had never compounded for their Malignancy, but had intruded themſelves into ſeverall Offices as aforeſaid, contrary to the Declaration of both Houſes, and Ordinance of Parliament in that caſe provided, the wel affected to the Parliament being thereby aggri<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> and generally oppreſſed, which made the Souldiers ſo much to ſtand for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of their Arrears and indempnity.</p>
+               <p>This true and haſty Anſwer, (to a ſcandalous Pamphlet, ſpread abroad by the the Relator <hi>Ellior</hi> as a foreſaid) I have thought good <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> forth, left falſ<g ref="char:EOLhyphen"/>bood (for want of Reply) ſhould be taken for verity; the Innocent guilty, and Knaves ſhot free.</p>
+            </div>
+            <byline>By Colonell John Poyer,</byline>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
